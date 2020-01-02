@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test1" max_length="40" name="x_blacklist_test1" type="collection">
+        <element label="XML" max_length="65536" name="xml" type="html"/>
+    </element>
+</database>
